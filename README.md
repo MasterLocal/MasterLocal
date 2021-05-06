@@ -2,7 +2,7 @@
 - 👀 I’m interested in Localization solutions, OKRs, KPIs, metrics and content tests to scale products
 - 🌱 I’m currently learning Chinese, Hebrew and Arabic, while I am fluent in 7 and familiar with 30 languages.
 - 💞️ I’m looking to collaborate on NLP processes, using spacy for new markets
-- 📫 How to reach me micheles@telenav.com
+- 📫 How to reach me michele.santamaria@gmail.com
 
 The purpose of this file is to share basic requirements for spacy 3.0 and L10n applications including python scripts for AI and internationalization.
 
